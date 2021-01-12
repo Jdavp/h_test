@@ -15,7 +15,7 @@ verticales. Cada dígito debe ocupar exactamente size+2 columnas y 2*size + 3 fi
 **Entre cada impresión debe haber una línea blanca.**
 
 ## Instalación : 
-* Clona este repositorio: `git clone ""`
+* Clona este repositorio: `git clone "https://github.com/Jdavp/habi_test"`
 * Asegurese de tener instalado Python3
 * Ejecute prueba.py
 
