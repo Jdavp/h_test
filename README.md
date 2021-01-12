@@ -29,7 +29,7 @@ verticales. Cada dígito debe ocupar exactamente size+2 columnas y 2*size + 3 fi
 
 *Salida:
 
-`![Visualizacion LCD](https://github.com/Jdavp/habi_test/blob/main/lcd.jpeg)`
+![Visualizacion LCD](https://github.com/Jdavp/habi_test/blob/main/lcd.jpeg)
 
 
 
