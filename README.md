@@ -1,6 +1,3 @@
-# Prueba BackEnd - 
-Crear un programa que imprime números en estilo de una pantalla LCD
-
 #Tecnologías:
 
 **Python** <img src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -15,7 +12,7 @@ verticales. Cada dígito debe ocupar exactamente size+2 columnas y 2*size + 3 fi
 **Entre cada impresión debe haber una línea blanca.**
 
 ## Instalación : 
-* Clona este repositorio: `git clone "https://github.com/Jdavp/habi_test"`
+* Clona este repositorio: `git clone "https://github.com/Jdavp/h_test"`
 * Asegurese de tener instalado Python3
 * Ejecute prueba.py
 
